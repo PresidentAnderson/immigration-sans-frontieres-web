@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "resources": "Resources",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Immigration Sans Frontières",
+      "subtitle": "Your trusted partner for immigration services",
+      "description": "We help individuals and families navigate the complex immigration process with expertise, compassion, and personalized support.",
+      "cta": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "services": {
+      "title": "Our Services",
+      "visa": {
+        "title": "Visa Applications",
+        "description": "Expert assistance with all types of visa applications including work, study, and family visas."
+      },
+      "citizenship": {
+        "title": "Citizenship & Residency",
+        "description": "Guidance through citizenship applications and permanent residency processes."
+      },
+      "consultation": {
+        "title": "Immigration Consultation",
+        "description": "Professional consultation to assess your immigration options and create a personalized plan."
+      },
+      "documentation": {
+        "title": "Document Preparation",
+        "description": "Comprehensive support with document collection, translation, and verification."
+      }
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "experience": {
+        "title": "Experienced Team",
+        "description": "Years of expertise in immigration law and processes"
+      },
+      "personalized": {
+        "title": "Personalized Service",
+        "description": "Tailored solutions for your unique situation"
+      },
+      "success": {
+        "title": "High Success Rate",
+        "description": "Proven track record of successful applications"
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "We're with you every step of the way"
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Immigration Sans Frontières is dedicated to making immigration accessible, transparent, and stress-free. We believe that everyone deserves expert guidance when pursuing their dreams of living, working, or studying abroad."
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Founded by immigration professionals with firsthand experience in the challenges of relocation, we understand the complexities and emotional journey of immigration. Our team combines legal expertise with cultural sensitivity to provide comprehensive support."
+    },
+    "values": {
+      "title": "Our Values",
+      "integrity": "Integrity and transparency in all our dealings",
+      "excellence": "Excellence in service and attention to detail",
+      "compassion": "Compassion and understanding for our clients",
+      "advocacy": "Strong advocacy for our clients' interests"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Comprehensive immigration solutions tailored to your needs",
+    "visa": {
+      "title": "Visa Services",
+      "types": "We assist with all types of visas",
+      "work": "Work Visas",
+      "study": "Study Visas",
+      "family": "Family Reunification",
+      "tourist": "Tourist & Visitor Visas",
+      "business": "Business Visas"
+    },
+    "residency": {
+      "title": "Residency & Citizenship",
+      "permanent": "Permanent Residency Applications",
+      "citizenship": "Citizenship Applications",
+      "naturalization": "Naturalization Process",
+      "renewal": "Residency Renewal"
+    },
+    "business": {
+      "title": "Business Immigration",
+      "entrepreneur": "Entrepreneur Programs",
+      "investor": "Investor Visas",
+      "corporate": "Corporate Transfers",
+      "startup": "Startup Visas"
+    },
+    "support": {
+      "title": "Support Services",
+      "consultation": "Initial Consultation",
+      "assessment": "Eligibility Assessment",
+      "documentation": "Document Preparation",
+      "translation": "Translation Services",
+      "representation": "Legal Representation",
+      "followup": "Post-Arrival Support"
+    }
+  },
+  "resources": {
+    "title": "Immigration Resources",
+    "description": "Helpful guides and information for your immigration journey",
+    "guides": {
+      "title": "Immigration Guides",
+      "visa101": {
+        "title": "Visa Application 101",
+        "description": "A comprehensive guide to understanding visa types and application processes"
+      },
+      "documents": {
+        "title": "Required Documents Checklist",
+        "description": "Complete list of documents needed for various immigration applications"
+      },
+      "timeline": {
+        "title": "Processing Timelines",
+        "description": "Estimated processing times for different immigration applications"
+      },
+      "preparation": {
+        "title": "Interview Preparation",
+        "description": "Tips and guidance for immigration interviews and consular appointments"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How long does the visa application process take?",
+      "a1": "Processing times vary by visa type and country, typically ranging from 2-12 months.",
+      "q2": "Do I need a lawyer for my immigration application?",
+      "a2": "While not always required, professional guidance can significantly improve your chances of success.",
+      "q3": "What documents do I need for a work visa?",
+      "a3": "Common requirements include passport, job offer letter, educational credentials, and proof of work experience.",
+      "q4": "Can I apply for permanent residency while on a work visa?",
+      "a4": "In many countries, yes. Requirements vary by jurisdiction and visa category."
+    },
+    "downloads": {
+      "title": "Downloadable Resources",
+      "checklist": "Document Checklist (PDF)",
+      "timeline": "Processing Timeline Guide (PDF)",
+      "forms": "Common Application Forms"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with our immigration experts",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! We'll get back to you soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "info@immigrationsansfrontieres.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Immigration Way, Suite 100",
+      "hours": "Monday - Friday: 9:00 AM - 6:00 PM"
+    },
+    "consultation": {
+      "title": "Schedule a Consultation",
+      "description": "Book a free 30-minute consultation to discuss your immigration needs"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for immigration services worldwide",
+    "quick": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  }
+}

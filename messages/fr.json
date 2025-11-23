@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "resources": "Ressources",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Immigration Sans Frontières",
+      "subtitle": "Votre partenaire de confiance pour les services d'immigration",
+      "description": "Nous aidons les individus et les familles à naviguer dans le processus d'immigration complexe avec expertise, compassion et soutien personnalisé.",
+      "cta": "Commencer",
+      "learnMore": "En Savoir Plus"
+    },
+    "services": {
+      "title": "Nos Services",
+      "visa": {
+        "title": "Demandes de Visa",
+        "description": "Assistance experte pour tous types de demandes de visa, y compris les visas de travail, d'études et de famille."
+      },
+      "citizenship": {
+        "title": "Citoyenneté et Résidence",
+        "description": "Accompagnement dans les demandes de citoyenneté et les processus de résidence permanente."
+      },
+      "consultation": {
+        "title": "Consultation en Immigration",
+        "description": "Consultation professionnelle pour évaluer vos options d'immigration et créer un plan personnalisé."
+      },
+      "documentation": {
+        "title": "Préparation de Documents",
+        "description": "Soutien complet pour la collecte, la traduction et la vérification des documents."
+      }
+    },
+    "why": {
+      "title": "Pourquoi Nous Choisir",
+      "experience": {
+        "title": "Équipe Expérimentée",
+        "description": "Des années d'expertise en droit et procédures d'immigration"
+      },
+      "personalized": {
+        "title": "Service Personnalisé",
+        "description": "Des solutions adaptées à votre situation unique"
+      },
+      "success": {
+        "title": "Taux de Réussite Élevé",
+        "description": "Historique prouvé de demandes réussies"
+      },
+      "support": {
+        "title": "Soutien Continu",
+        "description": "Nous sommes avec vous à chaque étape"
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Immigration Sans Frontières se consacre à rendre l'immigration accessible, transparente et sans stress. Nous croyons que chacun mérite des conseils d'experts pour poursuivre ses rêves de vivre, travailler ou étudier à l'étranger."
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "description": "Fondée par des professionnels de l'immigration ayant une expérience directe des défis de la relocalisation, nous comprenons les complexités et le parcours émotionnel de l'immigration. Notre équipe combine expertise juridique et sensibilité culturelle pour fournir un soutien complet."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "integrity": "Intégrité et transparence dans toutes nos relations",
+      "excellence": "Excellence dans le service et attention aux détails",
+      "compassion": "Compassion et compréhension pour nos clients",
+      "advocacy": "Défense forte des intérêts de nos clients"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "description": "Solutions d'immigration complètes adaptées à vos besoins",
+    "visa": {
+      "title": "Services de Visa",
+      "types": "Nous assistons avec tous types de visas",
+      "work": "Visas de Travail",
+      "study": "Visas d'Études",
+      "family": "Réunification Familiale",
+      "tourist": "Visas Touristiques et de Visite",
+      "business": "Visas d'Affaires"
+    },
+    "residency": {
+      "title": "Résidence et Citoyenneté",
+      "permanent": "Demandes de Résidence Permanente",
+      "citizenship": "Demandes de Citoyenneté",
+      "naturalization": "Processus de Naturalisation",
+      "renewal": "Renouvellement de Résidence"
+    },
+    "business": {
+      "title": "Immigration d'Affaires",
+      "entrepreneur": "Programmes pour Entrepreneurs",
+      "investor": "Visas d'Investisseur",
+      "corporate": "Transferts d'Entreprise",
+      "startup": "Visas de Startup"
+    },
+    "support": {
+      "title": "Services de Soutien",
+      "consultation": "Consultation Initiale",
+      "assessment": "Évaluation d'Éligibilité",
+      "documentation": "Préparation de Documents",
+      "translation": "Services de Traduction",
+      "representation": "Représentation Légale",
+      "followup": "Soutien Post-Arrivée"
+    }
+  },
+  "resources": {
+    "title": "Ressources d'Immigration",
+    "description": "Guides utiles et informations pour votre parcours d'immigration",
+    "guides": {
+      "title": "Guides d'Immigration",
+      "visa101": {
+        "title": "Demande de Visa 101",
+        "description": "Un guide complet pour comprendre les types de visa et les processus de demande"
+      },
+      "documents": {
+        "title": "Liste de Contrôle des Documents Requis",
+        "description": "Liste complète des documents nécessaires pour diverses demandes d'immigration"
+      },
+      "timeline": {
+        "title": "Délais de Traitement",
+        "description": "Temps de traitement estimés pour différentes demandes d'immigration"
+      },
+      "preparation": {
+        "title": "Préparation à l'Entretien",
+        "description": "Conseils et orientation pour les entretiens d'immigration et les rendez-vous consulaires"
+      }
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "q1": "Combien de temps prend le processus de demande de visa?",
+      "a1": "Les délais de traitement varient selon le type de visa et le pays, généralement de 2 à 12 mois.",
+      "q2": "Ai-je besoin d'un avocat pour ma demande d'immigration?",
+      "a2": "Bien que non toujours requis, les conseils professionnels peuvent améliorer significativement vos chances de succès.",
+      "q3": "Quels documents ai-je besoin pour un visa de travail?",
+      "a3": "Les exigences courantes incluent le passeport, la lettre d'offre d'emploi, les diplômes et la preuve d'expérience professionnelle.",
+      "q4": "Puis-je demander la résidence permanente avec un visa de travail?",
+      "a4": "Dans de nombreux pays, oui. Les exigences varient selon la juridiction et la catégorie de visa."
+    },
+    "downloads": {
+      "title": "Ressources Téléchargeables",
+      "checklist": "Liste de Contrôle des Documents (PDF)",
+      "timeline": "Guide des Délais de Traitement (PDF)",
+      "forms": "Formulaires de Demande Courants"
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "description": "Entrez en contact avec nos experts en immigration",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Merci! Nous vous répondrons bientôt.",
+      "error": "Quelque chose s'est mal passé. Veuillez réessayer."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": "info@immigrationsansfrontieres.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Immigration Way, Suite 100",
+      "hours": "Lundi - Vendredi: 9h00 - 18h00"
+    },
+    "consultation": {
+      "title": "Planifier une Consultation",
+      "description": "Réservez une consultation gratuite de 30 minutes pour discuter de vos besoins en immigration"
+    }
+  },
+  "footer": {
+    "description": "Votre partenaire de confiance pour les services d'immigration dans le monde entier",
+    "quick": "Liens Rapides",
+    "legal": "Légal",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "rights": "Tous droits réservés."
+  }
+}
