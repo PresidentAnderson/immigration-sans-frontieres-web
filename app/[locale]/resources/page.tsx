@@ -1,7 +1,7 @@
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 
-export default function ResourcesPage() {
-  const t = useTranslations('resources');
+export default async function ResourcesPage() {
+  const t = await getTranslations('resources');
 
   const guides = [
     {

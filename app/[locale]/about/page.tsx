@@ -1,7 +1,7 @@
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 
-export default function AboutPage() {
-  const t = useTranslations('about');
+export default async function AboutPage() {
+  const t = await getTranslations('about');
 
   const values = [
     t('values.integrity'),
