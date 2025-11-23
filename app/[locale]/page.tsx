@@ -1,7 +1,8 @@
 import { useTranslations } from 'next-intl';
 import Link from 'next/link';
 
-export default function HomePage({ params: { locale } }: { params: { locale: string } }) {
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
   const t = useTranslations('home');
 
   const services = [
